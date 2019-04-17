@@ -1,6 +1,6 @@
 # Obstacles-overcoming-with-ball
 
-Game in which you have to overcome all obstacles on your way with a ball!
+Game in which you have to overcome all obstacles on your way with a ball!  
 Made in Unity3D in C# in june 2018
 
 ## Video:
